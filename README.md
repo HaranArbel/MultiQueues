@@ -4,4 +4,4 @@ An implementation of MultiQueues data structure based on this [article](https://
 
 In order to execute the program, run the following command:
 
-./MultiQueue #file name #tuning parameter
+./MultiQueue &ltfile name&gt #tuning parameter
